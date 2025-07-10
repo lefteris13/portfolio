@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    background-color:salmon ;
+    color: brown;
+}
+nav a{
+      border:5px solid greenyellow;
+      padding:20px ;
+      background-color:azure;
+      border-radius: 15px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top:10%;
+}
+
